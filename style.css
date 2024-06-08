@@ -14,7 +14,7 @@ body {
     min-height: 100vh;
     /* background: rgb(108,233,38); */
     /* background: radial-gradient(circle, rgba(108,233,38,1) 0%, #162938 100%); */
-    background-image: url("images/hh.jpg");
+    background-image: url("hh.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
